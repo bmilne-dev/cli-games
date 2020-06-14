@@ -1,4 +1,4 @@
-# a second attempt at writing a hangman program.
+# a hangman program from scratch.
 
 from random import randint
 
